@@ -1,0 +1,3 @@
+mandamientos/        # Ignora toda la carpeta mandamientos
+*.log                # Ignora archivos con extensión .log
+*.tmp                # Ignora archivos temporales
